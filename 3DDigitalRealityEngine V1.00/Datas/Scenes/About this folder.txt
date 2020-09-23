@@ -1,0 +1,8 @@
+
+ABOUT THIS FOLDER
+=================
+
+This folder contains the 3D scenes files.
+
+There is some models of scenes that i modeled...
+i hope that you like theme (the textures are exluded)...

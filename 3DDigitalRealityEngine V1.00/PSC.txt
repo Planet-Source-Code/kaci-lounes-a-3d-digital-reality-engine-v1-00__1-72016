@@ -1,0 +1,21 @@
+. 3D Digital Reality Engine V1.00, PURE VB, by KACI Lounes
+
+Just if you are an expert 3D programmer, you must NOT miss this submission...
+Before I give you one word, PLEASE see the screen-shot !
+
+THIS IS AN EXTEMLY RARE SUBMISSION EVER MADE FOR HIGH LEVEL 3D-GRAPHICS :
+ 1: in VB code, 2: in PURE VB CODE (no DirectX or OpenGL), 3: in the PSC
+
+This is the first publication release on the Internet...
+more modifications and additions will comes in the future versions...
+
+The source code is written in a very careful way so everybody can understand
+how the things works. your questions, and suggestions are VERY important
+to me, of course...just don't forgot to give me some votes !
+
+Be only PATIENT during the download operation, because the archive
+include also the documentation & some samples of 3D scenes.
+
+KACI Lounes
+
+EOF.
