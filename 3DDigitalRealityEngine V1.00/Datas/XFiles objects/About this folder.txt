@@ -1,0 +1,6 @@
+
+ABOUT THIS FOLDER
+=================
+
+This folder includ some Microsoft(R) DirectX(R) objects (*.X)
+that you can includ theme in your current work...

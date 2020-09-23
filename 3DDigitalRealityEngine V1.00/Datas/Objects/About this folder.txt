@@ -1,0 +1,16 @@
+
+ABOUT THIS FOLDER
+=================
+
+This folder includ objects that can be imported
+to the scene file.
+
+If you working on a complex model of scene, you should
+create the objects separelety, save theme as 3D object
+file, then import these files into your scene directly!
+
+You can assemble many meshs in a single one (attachement),
+in a scene file or just in a object file format.
+
+One condition that one texture only can be exported
+in a object file.

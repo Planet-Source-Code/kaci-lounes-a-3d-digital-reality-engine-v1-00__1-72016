@@ -1,0 +1,9 @@
+
+ABOUT THIS FOLDER
+=================
+
+This folder includ some textures samples that
+you may use theme in the modelling..
+
+There are some samples ranged by the type of the
+textures: background, alpha, color, reflection/refraction...
